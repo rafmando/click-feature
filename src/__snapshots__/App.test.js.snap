@@ -1,0 +1,132 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button clicked renders data correctly when clicked 1`] = `
+<ul
+  aria-label="products-list"
+>
+  <li>
+    <p>
+      Item A
+    </p>
+    <p>
+      £
+      125
+    </p>
+  </li>
+  <li>
+    <p>
+      Item B
+    </p>
+    <p>
+      £
+      230
+    </p>
+  </li>
+  <li>
+    <p>
+      Item G
+    </p>
+    <p>
+      £
+      235
+    </p>
+  </li>
+  <li>
+    <p>
+      Item D
+    </p>
+    <p>
+      £
+      245
+    </p>
+  </li>
+  <li>
+    <p>
+      Item C
+    </p>
+    <p>
+      £
+      295
+    </p>
+  </li>
+  <li>
+    <p>
+      Item H
+    </p>
+    <p>
+      £
+      400
+    </p>
+  </li>
+  <li>
+    <p>
+      Item F
+    </p>
+    <p>
+      £
+      875
+    </p>
+  </li>
+  <li>
+    <p>
+      Item E
+    </p>
+    <p>
+      £
+      900
+    </p>
+  </li>
+</ul>
+`;
+
+exports[`Button unclicked renders data correctly 1`] = `
+<ul
+  aria-label="products-list"
+>
+  <li>
+    <p>
+      Item A
+    </p>
+    <p>
+      £
+      125
+    </p>
+  </li>
+  <li>
+    <p>
+      Item B
+    </p>
+    <p>
+      £
+      230
+    </p>
+  </li>
+  <li>
+    <p>
+      Item G
+    </p>
+    <p>
+      £
+      235
+    </p>
+  </li>
+  <li>
+    <p>
+      Item D
+    </p>
+    <p>
+      £
+      245
+    </p>
+  </li>
+  <li>
+    <p>
+      Item C
+    </p>
+    <p>
+      £
+      295
+    </p>
+  </li>
+</ul>
+`;
