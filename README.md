@@ -1,6 +1,5 @@
 # Click Feature
 
-
 ## Run the app in Visual Studio
 1. Install dependancies
 ```
